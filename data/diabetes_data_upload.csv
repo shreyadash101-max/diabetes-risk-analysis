@@ -1,0 +1,252 @@
+Age,Gender,Polyuria,Polydipsia,sudden weight loss,weakness,Polyphagia,Genital thrush,visual blurring,Itching,Irritability,delayed healing,partial paresis,muscle stiffness,Alopecia,Obesity,class,Age_Group
+40,Male,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,1,36-45
+58,Male,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,1,56-65
+41,Male,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,1,36-45
+45,Male,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,1,36-45
+60,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,56-65
+55,Male,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,1,46-55
+57,Male,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,1,56-65
+66,Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,1,Above 65
+67,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,1,Above 65
+70,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,1,Above 65
+44,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,1,36-45
+38,Male,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,1,36-45
+35,Male,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,1,25-35
+61,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,1,56-65
+60,Male,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,1,56-65
+58,Male,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,1,56-65
+54,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,1,46-55
+67,Male,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,Above 65
+66,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,1,Above 65
+43,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,1,36-45
+62,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,1,56-65
+54,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,1,46-55
+39,Male,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,1,36-45
+48,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,1,46-55
+58,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,1,56-65
+32,Male,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,1,25-35
+42,Male,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,1,36-45
+52,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,1,46-55
+38,Male,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,1,36-45
+53,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,1,46-55
+57,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,1,56-65
+41,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,1,36-45
+37,Male,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,1,36-45
+54,Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1,46-55
+49,Male,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,1,46-55
+48,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,1,46-55
+60,Male,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,1,56-65
+63,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,1,56-65
+35,Male,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,1,25-35
+30,Female,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,1,25-35
+53,Female,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,1,46-55
+50,Female,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,1,46-55
+50,Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1,46-55
+35,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,1,25-35
+40,Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,1,36-45
+48,Female,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,1,46-55
+60,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,1,56-65
+60,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,1,56-65
+35,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,1,25-35
+46,Female,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,1,46-55
+36,Female,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,1,36-45
+50,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,1,46-55
+60,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,1,56-65
+50,Female,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,1,46-55
+51,Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,1,46-55
+38,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,1,36-45
+66,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,1,Above 65
+53,Female,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,1,46-55
+59,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,56-65
+39,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,36-45
+65,Female,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,1,56-65
+35,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,1,25-35
+55,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,1,46-55
+60,Female,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,1,56-65
+45,Female,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,1,36-45
+40,Female,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,1,36-45
+30,Female,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,1,25-35
+35,Female,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,1,25-35
+25,Female,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,1,Below 25
+50,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,1,46-55
+40,Female,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,1,36-45
+35,Female,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,1,25-35
+65,Female,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,1,56-65
+38,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,1,36-45
+50,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,1,46-55
+55,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,1,46-55
+48,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,1,46-55
+55,Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,1,46-55
+39,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,1,36-45
+43,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,1,36-45
+35,Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,1,25-35
+47,Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,1,46-55
+50,Female,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,1,46-55
+48,Female,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,1,46-55
+49,Female,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,1,46-55
+38,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1,36-45
+28,Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,1,25-35
+68,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,1,Above 65
+35,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,1,25-35
+45,Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,1,36-45
+48,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1,46-55
+40,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,1,36-45
+40,Female,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,1,36-45
+36,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,1,36-45
+56,Female,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,1,56-65
+30,Female,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,1,25-35
+31,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,1,25-35
+35,Female,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,1,25-35
+39,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,1,36-45
+48,Female,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,1,46-55
+85,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,1,Above 65
+90,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1,Above 65
+72,Male,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,1,Above 65
+70,Male,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,1,Above 65
+69,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,1,Above 65
+58,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,1,56-65
+47,Male,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,1,46-55
+25,Male,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,1,Below 25
+39,Female,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,1,36-45
+53,Female,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,1,46-55
+52,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,1,46-55
+68,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,1,Above 65
+79,Male,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,1,Above 65
+55,Female,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,1,46-55
+45,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,1,36-45
+30,Female,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,1,25-35
+45,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1,36-45
+65,Female,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,1,56-65
+34,Female,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,1,25-35
+48,Male,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,1,46-55
+35,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,1,25-35
+40,Male,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,1,36-45
+47,Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,1,46-55
+38,Male,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,1,36-45
+55,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,1,46-55
+66,Male,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,1,Above 65
+57,Male,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,1,56-65
+32,Male,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,1,25-35
+48,Male,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,1,46-55
+47,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,1,46-55
+43,Male,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,1,36-45
+30,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,1,25-35
+16,Male,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,1,Below 25
+35,Male,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,1,25-35
+66,Male,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,1,Above 65
+54,Male,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,1,46-55
+58,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,56-65
+51,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,1,46-55
+40,Male,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,1,36-45
+47,Male,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,1,46-55
+62,Male,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,1,56-65
+49,Male,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,1,46-55
+53,Male,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,1,46-55
+68,Male,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,1,Above 65
+61,Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,1,56-65
+39,Male,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,1,36-45
+38,Male,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,1,36-45
+44,Male,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,1,36-45
+45,Male,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,1,36-45
+50,Male,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,1,46-55
+42,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,1,36-45
+55,Male,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,1,46-55
+57,Male,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,1,56-65
+62,Male,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,56-65
+33,Male,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,1,25-35
+55,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,1,46-55
+48,Male,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,1,46-55
+56,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,1,56-65
+54,Male,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,1,46-55
+64,Male,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,1,56-65
+36,Male,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,1,36-45
+43,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1,36-45
+31,Male,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,1,25-35
+66,Male,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,1,Above 65
+61,Female,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,1,56-65
+58,Female,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,1,56-65
+69,Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,1,Above 65
+40,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,0,36-45
+28,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,0,25-35
+37,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,36-45
+34,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,25-35
+30,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,25-35
+67,Male,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,0,Above 65
+60,Male,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,0,56-65
+58,Male,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,0,56-65
+54,Male,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,0,46-55
+43,Male,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,0,36-45
+39,Male,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,0,36-45
+40,Male,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,0,36-45
+43,Male,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,0,36-45
+49,Male,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,0,46-55
+47,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,0,46-55
+45,Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,0,36-45
+57,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,0,56-65
+72,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,0,Above 65
+27,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,25-35
+38,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,36-45
+43,Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,0,36-45
+40,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,0,36-45
+55,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,0,46-55
+68,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,0,Above 65
+29,Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,0,25-35
+37,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,0,36-45
+30,Male,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,0,25-35
+45,Male,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,0,36-45
+47,Male,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,0,46-55
+35,Male,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,0,25-35
+32,Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,0,25-35
+56,Male,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,0,56-65
+50,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,0,46-55
+52,Male,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,0,46-55
+26,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,25-35
+60,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,0,56-65
+65,Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,0,56-65
+72,Male,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,0,Above 65
+30,Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,0,25-35
+45,Male,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,0,36-45
+65,Male,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,0,56-65
+70,Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,0,Above 65
+35,Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,0,25-35
+54,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,0,46-55
+46,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,0,46-55
+53,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,0,46-55
+42,Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,0,36-45
+33,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,25-35
+55,Female,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,0,46-55
+36,Female,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,0,36-45
+28,Female,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,0,25-35
+34,Female,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,0,25-35
+65,Female,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,0,56-65
+34,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,25-35
+64,Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,0,56-65
+44,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,0,36-45
+36,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,36-45
+43,Male,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,0,36-45
+53,Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,0,46-55
+47,Male,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,0,46-55
+58,Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,0,56-65
+56,Male,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,0,56-65
+51,Female,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,0,46-55
+59,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,0,56-65
+50,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,0,46-55
+66,Male,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,1,Above 65
+67,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,0,Above 65
+70,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,0,Above 65
+44,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,36-45
+35,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,25-35
+61,Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,0,56-65
+60,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,0,56-65
+58,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,0,56-65
+54,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,46-55
+67,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,0,Above 65
+66,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,0,Above 65
+43,Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,0,36-45
+62,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,1,56-65
+54,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,1,46-55
+39,Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,1,36-45
+48,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,1,46-55
+58,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,1,56-65
+32,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,0,25-35
+42,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,0,36-45
